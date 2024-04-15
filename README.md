@@ -2,7 +2,7 @@
 ![Facebook-Hacking-Framework preview](FHF.jpg)
 
 ## introduction
-A facebook hacking framework made by me to hack facebook account using bruteforcing or phishimg and also get auto likes on fb
+A facebook hacking framework made by me to hack facebook account using bruteforcing or phishing and also get auto likes on fb
 
 ## Instalations
 ```
